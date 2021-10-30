@@ -371,6 +371,11 @@
         <active>true</active>
         <label>first layout</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>second_record</fullName>
+        <active>true</active>
+        <label>second record</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
