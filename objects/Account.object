@@ -267,17 +267,6 @@
         <type>Picklist</type>
     </fields>
     <fields>
-        <fullName>Is_change_needed__c</fullName>
-        <description>12</description>
-        <externalId>false</externalId>
-        <label>Is change needed</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
